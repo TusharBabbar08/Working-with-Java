@@ -1,0 +1,50 @@
+
+___Student Details___
+Roll No: 835
+Name: FT
+Marks1: 99
+Marks2: 99
+Marks3: 99
+Average : 99.0
+___Student Details___
+Roll No: 145
+Name: jegsf
+Marks1: 89
+Marks2: 87
+Marks3: 85
+Average : 87.0
+___Student Details___
+Roll No: 1246
+Name: 64
+Marks1: 656
+Marks2: 55
+Marks3: 644
+Average : 451.6666666666667
+___Student Details___
+Roll No: 75
+Name: tb
+Marks1: 99
+Marks2: 98
+Marks3: 97
+Average : 98.0
+___Student Details___
+Roll No: 89
+Name: y
+Marks1: 99
+Marks2: 56
+Marks3: 45
+Average : 66.66666666666667
+___Student Details___
+Roll No: 1
+Name: l
+Marks1: 85
+Marks2: 85
+Marks3: 85
+Average : 85.0
+___Student Details___
+Roll No: 5
+Name: hg
+Marks1: 45
+Marks2: 5
+Marks3: 5
+Average : 18.333333333333332
